@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "PROJECT/reactdev.png",
+    "description": "I developed Flixxit, a Netflix-like web app using React.js and Node.js, enabling users to sign up, search, watch, save content, and subscribe for full access, ensuring a seamless user experience.",
+    "skills": ["HTML","CSS","JavaScript","React-js","Redux","Nodejs","Mongodb"],
+    "demo": "https://drive.google.com/drive/folders/1bWl7HaOglwU0xhH__PsyZrZFpDiCXkDZ?usp=drive_link",
+    "source": "https://github.com/ashishkumar2702/flixxit-project"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "PROJECT/leafnow.png",
+    "description": "I designed a user-friendly website for plant enthusiasts with donation and purchase features, using HTML/CSS for the frontend, JavaScript for the backend, and MySQL for data management.",
+    "skills": ["HTML", "CSS", "JavaScript","Mysql"],
+    "demo": "https://drive.google.com/drive/folders/1iaCot5PXP3lafApgilBvuaco6n0YZrUl?usp=drive_link",
+    "source": "https://github.com/ashishkumar2702/LEAFNOW"
+  }
+]
+  

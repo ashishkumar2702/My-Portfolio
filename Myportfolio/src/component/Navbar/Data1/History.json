@@ -1,0 +1,19 @@
+[
+ {
+   "role": "Intern",
+   "organisation": "Compsoft Technologies",
+   "startDate": "May, 2022",
+   "endDate": "July, 2022",
+   "experiences": ["Developed a user-friendly website catering to plant enthusiasts"],
+   "imageSrc": "history/compsoft.png"
+ },
+{
+ "role": "Intern",
+ "organisation": "Upgrad",
+ "startDate": "July, 2023",
+ "endDate": "Present",
+ "experiences": ["Developed a MERN Stack project"],
+ "imageSrc": "history/Upgrad.png"
+}
+
+]

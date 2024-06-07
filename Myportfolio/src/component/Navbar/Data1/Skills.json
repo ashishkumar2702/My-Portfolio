@@ -1,0 +1,31 @@
+[
+  {
+    "title":"HTML",
+    "imageSrc":"skills/html.png"
+  },
+  {
+   "title":"CSS",
+    "imageSrc":"skills/css.png" 
+  },
+     {
+    "title":"React-Js",
+    "imageSrc":"skills/react.png"
+  },
+   {
+    "title":"JAVASCRIPT",
+    "imageSrc":"skills/javascript.png"
+  },
+  {
+    "title":"JAVA",
+    "imageSrc":"skills/java.png"
+  },
+
+   {
+    "title":"SQL",
+    "imageSrc":"skills/SQL.png"
+  },
+   {
+    "title":"GITHUB",
+    "imageSrc":"skills/git.png"
+  }
+]
